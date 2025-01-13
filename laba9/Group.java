@@ -1,4 +1,4 @@
-package studentslist;
+package laba9;
 import java.util.*;
 
 public class Group {
