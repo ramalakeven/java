@@ -1,4 +1,4 @@
-package studentslist;
+package laba9;
 
 import java.io.InputStreamReader;
 import java.util.*;
